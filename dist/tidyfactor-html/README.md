@@ -1,9 +1,26 @@
-# TidyFactor HTML
+<div align="center">
 
-The **HTML track** of the TidyFactor skill library — a Claude skill for
-scaffolding, converting, and improving 100%-static websites deployable on
-any free or shared hosting (GitHub Pages, Cloudflare Pages, Netlify,
-Vercel static, cPanel free hosting), with zero server-side runtime.
+# 🌐 TidyFactor HTML `v1.1.0`
+### 100% Static Platform Starter, Web Components & Contextual Decision Engine
+
+**The official static web engineering track within the TidyFactor Architecture Ecosystem.**
+
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-html.svg?style=for-the-badge&color=E34F26)](https://www.npmjs.com/package/@alwkala/tidyfactor-html)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Ready](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](README.ar.md)
+[![Zero Runtime](https://img.shields.io/badge/Runtime-Zero%20Server-purple.svg?style=for-the-badge)](#-three-lifecycle-modes)
+
+[🚀 Quick Start](#-quick-start) • [⚡ 9 Commands](#-command-set) • [🏛️ Ecosystem](#%EF%B8%8F-tidyfactor-ecosystem-architecture) • [📖 بالعربية](README.ar.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor HTML Hero Banner" width="100%" />
+</p>
+
+</div>
+
+---
 
 Part of the TidyFactor ecosystem. Sibling tracks (`tidyfactor-php`,
 `tidyfactor-vanilla-js`, `tidyfactor-micro-js`, `tidyfactor-track-*`) live

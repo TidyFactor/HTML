@@ -1,8 +1,7 @@
 ---
 name: tidyfactor-html
-description: "TidyFactor HTML track — 100% static HTML/CSS/JS platform starter with Contextual Decision Layer (CDL). Built for zero server runtime, free/shared hosting (GitHub Pages, Cloudflare Pages, Netlify, cPanel), and Web Components. Trigger on commands 'brief', 'init', 'compo', 'pages', 'assets', 'store', 'modules', 'i18n', 'seo', 'deploy', or requests like 'start a new static site', 'scaffold a static project', 'convert to plain HTML', 'componentize static site', 'prep for GitHub Pages'. Anti-triggers: Do NOT use for server-side databases or backend apps."
+description: "Static HTML/CSS/JS platform starter with Contextual Decision Layer (CDL). Built for zero server runtime, Web Components, and free/shared hosting (GitHub Pages, Cloudflare, Netlify, cPanel). Trigger on commands 'brief', 'init', 'compo', 'pages', 'assets', 'store', 'modules', 'i18n', 'seo', 'deploy', or requests to scaffold or convert to plain static HTML."
 ---
-
 # TidyFactor HTML (Content-First Static Platform Starter)
 
 A command dispatcher for 100% static HTML/CSS/JS web platforms. This router declares commands and workflows without performing execution directly.
