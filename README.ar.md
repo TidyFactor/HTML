@@ -3,7 +3,17 @@
 # 🌐 مهارة تايتفكتور للمواقع الثابتة `TidyFactor HTML v1.2.0`
 ### محرك المواقع الثابتة بنسبة 100% ومكونات الويب Web Components لوكلاء الذكاء الاصطناعي
 
-[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-html.svg?style=for-the-badge&color=E34F26)](https://www.npmjs.com/package/@alwkala/tidyfactor-html)
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-html.svg?style=for-the-badge&color=E34F26&logo=npm)](https://www.npmjs.com/package/@alwkala/tidyfactor-html)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=for-the-badge)](LICENSE)
+[![Ecosystem](https://img.shields.io/badge/TidyFactor-Skills--LAB-purple.svg?style=for-the-badge)](https://github.com/TidyFactor)
+[![Compatibility](https://img.shields.io/badge/Agents-Antigravity%20|%20Claude%20|%20Cursor%20|%20Codex-orange.svg?style=for-the-badge)](SKILL.md)
+[![طبقة القرارات](https://img.shields.io/badge/CDL-طبقة%20القرارات%20السياقية-purple.svg?style=for-the-badge)](SKILL.md)
+[![أداء لايتهاوس](https://img.shields.io/badge/لايتهاوس-100%2F100-success.svg?style=for-the-badge)](SKILL.md)
+[![RTL Native Arabic](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](README.ar.md)
+[![Architect Score](https://img.shields.io/badge/Architect%20Score-13%2F13%20Pass%20(100%25)-green.svg?style=for-the-badge)](#-معايير-الحوكمة-والجودة)
+[![AI Agents Compatible](https://img.shields.io/badge/AI%20Agents-Universal%20Compatibility-4285F4.svg?style=for-the-badge)](SKILL.md)
+
+[ English ](README.md) • [ العربية ](README.ar.md) • [ فارسی ](README.fa.md) • [ Español ](README.es.md) • [ Português ](README.pt.md) • [ 简体中文 ](README.zh.md) • [ Deutsch ](README.de.md) • [ Français ](README.fr.md)](https://www.npmjs.com/package/@alwkala/tidyfactor-html)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
 [![RTL Native Arabic](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](#-معمارية-منظومة-tidyfactor)
 
