@@ -1,5 +1,5 @@
 {
-  "name": "@alwkala/tidyfactor-html",
+  "name": "@tidyfactor/html",
   "version": "1.2.0",
   "description": "TidyFactor HTML track — 100% static HTML/CSS/JS platform starter with Contextual Decision Layer (CDL)",
   "main": "SKILL.md",
@@ -21,7 +21,7 @@
     "claude-code",
     "cursor"
   ],
-  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "author": "TidyFactor <hello@tidyfactor.com> (https://tidyfactor.com)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

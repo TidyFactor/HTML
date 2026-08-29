@@ -1,6 +1,6 @@
 # Changelog - TidyFactor HTML
 
-All notable changes to the **[@alwkala/tidyfactor-html](https://www.npmjs.com/package/@alwkala/tidyfactor-html)** package will be documented in this file.
+All notable changes to the **[@tidyfactor/html](https://www.npmjs.com/package/@tidyfactor/html)** package will be documented in this file.
 
 ## [1.2.0] - 2026-08-29
 
@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ---
 
 ## [1.0.0] - 2026-07-28
-- Initial Release of `@alwkala/tidyfactor-html`
+- Initial Release of `@tidyfactor/html`
