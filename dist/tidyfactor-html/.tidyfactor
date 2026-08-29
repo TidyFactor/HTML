@@ -2,7 +2,7 @@
   "ecosystem": "tidyfactor",
   "track": "html",
   "name": "tidyfactor-html",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "npmPackage": "@alwkala/tidyfactor-html",
   "github": "https://github.com/TidyFactor/HTML",
   "skillFile": "../tidyfactor-html-v1.1.0.skill",
