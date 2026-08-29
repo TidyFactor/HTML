@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-# 🌐 مهارة تايتفكتور للمواقع الثابتة `TidyFactor HTML v1.1.0`
+# 🌐 مهارة تايتفكتور للمواقع الثابتة `TidyFactor HTML v1.2.0`
 ### محرك المواقع الثابتة بنسبة 100% ومكونات الويب Web Components لوكلاء الذكاء الاصطناعي
 
 [![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-html.svg?style=for-the-badge&color=E34F26)](https://www.npmjs.com/package/@alwkala/tidyfactor-html)

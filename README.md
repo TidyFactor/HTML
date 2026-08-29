@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 TidyFactor HTML `v1.1.0`
+# 🌐 TidyFactor HTML `v1.2.0`
 ### 100% Static Platform Starter, Web Components & Contextual Decision Engine
 
 **The official static web engineering track within the TidyFactor Architecture Ecosystem.**
