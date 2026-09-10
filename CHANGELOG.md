@@ -2,6 +2,18 @@
 
 All notable changes to the **[@tidyfactor/html](https://www.npmjs.com/package/@tidyfactor/html)** package will be documented in this file.
 
+## [1.3.0] - 2026-09-10
+
+### Added — Agentic Browsing Readiness & llms.txt Discovery
+- **SEO & Machine Discovery Command Update (`references/commands/seo.md`)**:
+  - Injected standard `<link rel="alternate" type="text/markdown" href="/llms.txt" title="LLM Overview" />` discovery tag into `<head>`.
+  - Added deterministic check for AI-agent-friendly semantic HTML controls and non-blocking `robots.txt` configuration for `GPTBot` and `ClaudeBot`.
+- **Quality Gate Expansion (`references/memory/quality-bar.md`)**:
+  - Expanded Axis S to enforce Agentic Browsing readiness, accessible names for interactive nodes, and `/llms.txt` discovery tags.
+  - Added CLS threshold (≤ 0.05) to Axis V to prevent autonomous agent click targeting failures.
+
+---
+
 ## [1.2.0] - 2026-08-29
 
 ### Added - Global Multi-Tier & Multi-Language Documentation Architecture

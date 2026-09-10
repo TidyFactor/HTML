@@ -26,16 +26,18 @@ sitemap, robots.
 4. Structured data (JSON-LD) where it clearly applies (Article, Product,
    Organization, BreadcrumbList) — don't force schema types that don't fit
    the content.
-5. Generate/update `sitemap.xml` by walking the final `/dist` (or source)
-   page tree, and `robots.txt` pointing to it.
-6. Bilingual mode: cross-reference `i18n.md`'s `hreflang` requirement —
+5. AI Agent & LLM Discovery: Add `<link rel="alternate" type="text/markdown" href="/llms.txt" title="LLM Overview" />`
+   to `<head>` of main layout/index to enable seamless agentic ingestion.
+6. Generate/update `sitemap.xml` by walking the final `/dist` (or source)
+   page tree, and `robots.txt` pointing to it (ensuring AI bots like GPTBot/ClaudeBot are not blanket blocked).
+7. Bilingual mode: cross-reference `i18n.md`'s `hreflang` requirement —
    `seo` is what actually adds it if `i18n` hasn't run yet.
 
 ## Output convention
 ```
 /dist/sitemap.xml   (or /sitemap.xml in runtime mode)
 /dist/robots.txt
-Per-page: <title>, <meta description>, og:*, twitter:*, canonical, JSON-LD
+Per-page: <title>, <meta description>, og:*, twitter:*, canonical, JSON-LD, llms.txt discovery
 ```
 
 ## Checklist
@@ -44,3 +46,5 @@ Per-page: <title>, <meta description>, og:*, twitter:*, canonical, JSON-LD
 - [ ] `sitemap.xml` matches the actual final page tree, no stale entries
 - [ ] `robots.txt` present and correctly points to the sitemap
 - [ ] Canonical URLs match the structure `pages.md` established
+- [ ] `llms.txt` discovery tag included in HTML `<head>`
+- [ ] All interactive buttons/links declare semantic tags and accessible names for AI agents
