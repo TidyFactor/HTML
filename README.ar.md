@@ -1,7 +1,7 @@
 <div align="center" dir="rtl">
 
-# 🌐 مهارة تايتفكتور للمواقع الثابتة `TidyFactor HTML v1.2.0`
-### محرك المواقع الثابتة بنسبة 100% ومكونات الويب Web Components لوكلاء الذكاء الاصطناعي
+# 🌐 مهارة تايتفكتور للمواقع الثابتة `TidyFactor HTML v1.3.0`
+### محرك المواقع الثابتة بنسبة 100%، مكونات الويب، وجاهزية تصفح الوكلاء (Agentic Browsing)
 
 [![npm version](https://img.shields.io/npm/v/@tidyfactor/html.svg?style=for-the-badge&color=E34F26&logo=npm)](https://www.npmjs.com/package/@tidyfactor/html)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=for-the-badge)](LICENSE)
